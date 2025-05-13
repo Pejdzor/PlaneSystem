@@ -20,10 +20,10 @@ npm install
 - Proszę utworzyć w katalogu /backend plik ".env" i uzupełnić go danymi:
 ```
     PORT=4000
-    HOST=mysql.agh.edu.pl
-    USER=swoznia1
+    HOST=***
+    USER=***
     PASSWORD=***
-    DATABASE=swoznia1
+    DATABASE=***
     SECRET=***
 ```
 - *** w polach USER i SECRET należy zastąpić otrzymanymi ciągami znaków.
